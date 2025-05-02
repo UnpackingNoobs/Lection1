@@ -1,0 +1,1 @@
+REM UPX v4.2.4-win32 was used
